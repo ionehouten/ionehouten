@@ -15,19 +15,13 @@
 **13+ years** building and operating infrastructure across government, fintech, healthcare, and enterprise clients in Indonesia. Currently focused on hybrid cloud architecture, GitOps pipelines, and platform engineering on Kubernetes.
 
 ```yaml
-current_focus:
-  - Hybrid Cloud Architecture (on-prem + AWS + GCP + OCI)
-  - CloudNativePG & database platform engineering
-  - Zero Trust Security & FinOps optimization
-  - ITSM/ITAM platform rollouts (InvGate)
 
 stack:
-  orchestration:  [ Kubernetes, CloudNativePG, ArgoCD ]
-  infra_as_code:  [ Terraform, Ansible, Helm ]
-  cloud:          [ AWS, GCP, OCI, Azure ]
+  orchestration:  [ Docker, DockerSwarm, Kubernetes  ]
+  infra_as_code:  [ Terraform, Ansible, Kustomize, Helm ]
+  platform:       [ AWS, GCP, OCI, Bare-metal]
   observability:  [ Prometheus, Grafana, Loki ]
-  ci_cd:          [ GitHub Actions, GitLab CI ]
-  security:       [ Trivy, Falco, OPA/Gatekeeper ]
+  ci_cd:          [ GitHub Actions, GitLab CI, Jenkins, ArgoCD]
 ```
 
 ---
@@ -48,7 +42,7 @@ Real-world performance data from production-grade infrastructure — not vendor 
 | Repo | Description |
 |---|---|
 | [devops-kangservice](https://github.com/ionehouten/devops-kangservice) | Terraform modules, Helm charts, and Kubernetes manifests from real deployments |
-| *(more coming)* | pgbench & redis-benchmark scripts from the articles above |
+| *(more coming)* |  |
 
 ---
 

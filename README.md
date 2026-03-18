@@ -3,6 +3,10 @@
 # Iwan Setiawan
 ### Senior DevOps Engineer · Hybrid Cloud & Platform Infrastructure
 
+<p align="center">
+  <img src="https://github.com/ionehouten/devops-kangservice/blob/main/assets/kangservice-small.png" />
+</p>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.kangservice.cloud-00e5ff?style=flat-square&logo=safari&logoColor=white)](https://portfolio.kangservice.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ionehouten-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ionehouten)
 [![dev.to](https://img.shields.io/badge/dev.to-ionehouten-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/ionehouten)
